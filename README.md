@@ -1,26 +1,28 @@
 ## Oracle Apex Date Validator Plugin
 #### Plugin desenvolvido em Oracle APEX para validar a data no padrão informado, não permitindo que o usuário saia do campo se a data estiver inválida.
+
 <div style="display: inline_block">
-    <img align="center" alt="APEX Community" 
+    <img align="center" alt="Oracle" 
     src="https://img.shields.io/badge/Oracle-F80000??style=for-the-badge&logo=oracle&logoColor=white
     "></img>
     <img align="center" alt="APEX Community" 
     src="https://cdn.rawgit.com/Dani3lSun/apex-github-badges/78c5adbe/badges/apex-community-badge.svg
     "></img>
-    <img align="center" alt="APEX Community" 
+    <img align="center" alt="Built with" 
     src="https://cdn.rawgit.com/Dani3lSun/apex-github-badges/7919f913/badges/apex-love-badge.svg
     "></img>
 </div>
 
 ### Linguagens e Recursos
+
 <div style="display: inline_block">
-       <img align="center" alt="APEX Community" 
+       <img align="center" alt="APEX Plugin" 
     src="https://cdn.rawgit.com/Dani3lSun/apex-github-badges/b7e95341/badges/apex-plugin-badge.svg
     "></img>
-    <img align="center" alt="APEX Community" 
+    <img align="center" alt="APEX javascript" 
     src="https://cdn.rawgit.com/Dani3lSun/apex-github-badges/6ed914a1/badges/apex-javascript-badge.svg
     "></img>
-    <img align="center" alt="APEX Community" 
+    <img align="center" alt="APEX PL/SQL" 
     src="https://cdn.rawgit.com/Dani3lSun/apex-github-badges/6ed914a1/badges/apex-plsql-badge.svg
     "></img>
 </div>
