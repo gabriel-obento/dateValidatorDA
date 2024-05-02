@@ -1,7 +1,7 @@
 # Oracle Apex Date Validator Plugin
 #### Plugin desenvolvido em Oracle APEX para validar a datas no padrão informado, não permitindo que o usuário saia do campo se a data estiver inválida.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&target=_blank)](https://www.linkedin.com/in/gabrielbento-devapex/){target="_blank"}
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&target=_blank)](https://www.linkedin.com/in/gabrielbento-devapex/){:target="_blank" rel="noopener"}
 
 ### Recursos e Linguagens
 [![Oracle](https://img.shields.io/badge/Oracle-F80000??style=for-the-badge&logo=Oracle&logoColor=white)](https://github.com/gabriel-obento/dateValidatorDA)
