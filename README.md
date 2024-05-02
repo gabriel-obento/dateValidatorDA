@@ -34,6 +34,9 @@
 6 - Selecione o item afetado pela ação dinâmica. *(Selecione somente UM ITEM por ação.)*
 
 #### *Obs.: Verifique a seção Ajuda nos atributos do plugin para mais informações sobre quais padrões utilizar.*
+
+<img width="835" alt="image" src="https://github.com/gabriel-obento/dateValidatorDA/assets/168774661/198c53ed-2680-4867-a80b-8e373a9e9468">
+
 #
 Se tiver alguma dúvida de utilização ou sugestão de melhoria, estou à disposição!
 
