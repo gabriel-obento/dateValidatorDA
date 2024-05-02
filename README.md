@@ -1,4 +1,7 @@
 # Oracle Apex Date Validator Plugin
+
+https://github.com/gabriel-obento/dateValidatorDA/assets/168774661/62961f2b-55f6-43db-a690-25f8040f410a
+
 #### Plugin desenvolvido em Oracle APEX para validar a datas no padrão informado, não permitindo que o usuário saia do campo se a data estiver inválida.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielbento-devapex/)
@@ -33,9 +36,11 @@
 
 6 - Selecione o item afetado pela ação dinâmica. *(Selecione somente UM ITEM por ação.)*
 
+<img width="838" alt="image" src="https://github.com/gabriel-obento/dateValidatorDA/assets/168774661/b499d5a7-f8b9-4e23-b360-40eebc1c157b">
+
+
 #### *Obs.: Verifique a seção Ajuda nos atributos do plugin para mais informações sobre quais padrões utilizar.*
 
-<img width="835" alt="image" src="https://github.com/gabriel-obento/dateValidatorDA/assets/168774661/198c53ed-2680-4867-a80b-8e373a9e9468">
 
 #
 Se tiver alguma dúvida de utilização ou sugestão de melhoria, estou à disposição!
