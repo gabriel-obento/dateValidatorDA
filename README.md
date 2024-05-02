@@ -1,4 +1,4 @@
-//Oracle Apex Plugin Date Validator Dynamic Action
+//Oracle Apex Plugin Date Validator Dynamic Action <br>
 //Gabriel Bento
 //Version: 1.0
 //02/05/2024
