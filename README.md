@@ -38,10 +38,16 @@ https://github.com/gabriel-obento/dateValidatorDA/assets/168774661/62961f2b-55f6
 
 <img width="838" alt="image" src="https://github.com/gabriel-obento/dateValidatorDA/assets/168774661/b499d5a7-f8b9-4e23-b360-40eebc1c157b">
 
+*Obs.: Verifique a seção Ajuda nos atributos do plugin para mais informações sobre quais padrões utilizar.*
+#
+### Compatibilidade
+![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white)
 
-#### *Obs.: Verifique a seção Ajuda nos atributos do plugin para mais informações sobre quais padrões utilizar.*
-
-
+(Não testado em outros navegadores)
+#
+### Oracle APEX Version
+Suporte para versão **22** e **23** do Oracle Application Express.
 #
 Se tiver alguma dúvida de utilização ou sugestão de melhoria, estou à disposição!
 
