@@ -21,7 +21,7 @@
       "url" : "https://github.com/gabriel-obento/dateValidatorDA"
     },
     "oracle" : {
-      "versions" : ["22.0.0.0","23.0.0.0"],
+      "versions" : ["22.1.0.0","23.1.0.0"],
       "apex" : {
         "versions" : ["22.0","23.0"],
         "plugin" : {
