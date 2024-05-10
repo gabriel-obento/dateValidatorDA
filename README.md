@@ -39,6 +39,8 @@ https://github.com/gabriel-obento/dateValidatorDA/assets/168774661/62961f2b-55f6
 <img width="838" alt="image" src="https://github.com/gabriel-obento/dateValidatorDA/assets/168774661/b499d5a7-f8b9-4e23-b360-40eebc1c157b">
 
 *Obs.: Verifique a seção Ajuda nos atributos do plugin para mais informações sobre quais padrões utilizar.*
+
+[Ver Demonstração](https://apex.oracle.com/pls/apex/r/gabriel_bento/date-validator-plugin-da/tela-demonstracao)
 #
 ### Compatibilidade
 ![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
